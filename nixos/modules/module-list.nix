@@ -1001,6 +1001,7 @@
   ./services/networking/xrdp.nix
   ./services/networking/yggdrasil.nix
   ./services/networking/zerobin.nix
+  ./services/networking/zdb.nix
   ./services/networking/zeronet.nix
   ./services/networking/zerotierone.nix
   ./services/networking/znc/default.nix
