@@ -38088,6 +38088,8 @@ with pkgs;
   honeyvent = callPackage ../servers/tracing/honeycomb/honeyvent { };
 
   mictray = callPackage ../tools/audio/mictray { };
+  
+  zdb = callPackage ../servers/zdb { };
 
   swift-corelibs-libdispatch = callPackage ../development/libraries/swift-corelibs-libdispatch { };
 
